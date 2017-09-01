@@ -1,0 +1,6 @@
+.encabezado{
+	background-image: url("../images/banner-bg.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
